@@ -58,11 +58,12 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-<summary> GitHub Stats</summary>
+<details>
+  <summary>⚡ GitHub Stats</summary>
 
-<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=shadykh&show_icons=true&hide_border=true" />
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=shadykh&show_icons=true&hide_border=true" />
 
-
+</details>
 
 [website]: https://github.com/shadykh
 [linkedin]: https://www.linkedin.com/in/shadykhaled
