@@ -1,69 +1,61 @@
+### Hi there 👋, my name is Shady Khaled
+#### I am a Full-Stack Web Developer 
+![I am a Full-Stack Web Developer ](./waving.gif)
 
-
-<!--
-### Hi there 👋
-**shadykh/shadykh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-### Hi there, I'm ⬇️
-
-![Website](./giff.gif)
+---
 
 
 
-## I'm an Aeronautical Engineer, Automation Engineer and Full stack web developer !!
+- 🔭 I’m currently working on Finding job to increase and apply my skills 
+- 🌱 I’m currently learning OOP 
+- 👯 I’m looking to collaborate on Making personal tracker 
+- 💬 Ask me about Video Games, Online Courses, Write for something about me and Junk Food  
+- 📫 How to reach me: contact  
+- 😄 Pronouns: Luffy 
+- ⚡ Fun fact: If I could have any superpower, it would be a magical power to make a sweets instantly 🍬. 
 
 
-- 🔭 I’m currently working on being Full Stack Web Developer.
-- 🌱 I’m currently learning the Code301 in LTUC/ASAC.
-- 👯 I’m looking to collaborate with other developers.
-- 🤔 I’m looking for help with this journy.
-- 💬 Ask me about anything you want 🤣.
-- 😄 My favourite anime : One Piece.
-- ⚡ Fun fact: If I could have any superpower, it would be a magical power to make a sweets instantly 🍬.
+---
 
-### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/owueuyr9rt5pc80plrfofaqkm)
+#### Skills:
 
-### Connect with me:
+![Skills](./coding.gif)
 
-[<img align="left"  width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<img src="https://img.icons8.com/bubbles/50/000000/react.png"/>
+<img src="https://img.icons8.com/color/48/000000/npm.png"/>
+<img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
+<img src="https://img.icons8.com/color/48/000000/heroku.png"/>
+<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
+<img src="https://img.icons8.com/color-glass/48/000000/css.png"/>
+<img src="https://img.icons8.com/color/48/000000/sass.png"/>
+<img src="https://img.icons8.com/color/48/000000/ubuntu--v1.png"/>
+<img src="https://img.icons8.com/ios/50/000000/jquery.png"/>
+<img src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
+<img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
+<img src="https://img.icons8.com/color/48/000000/git.png"/>
+<img src="https://img.icons8.com/color/48/000000/power-bi.png"/>
+<img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
 
-<br />
+---
+### contact:
 
-### Languages and Tools:
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shadykh) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='dev' height='40'>](shadykh)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/shadykhaled/)  [<img src="https://img.icons8.com/ios-filled/50/000000/portfolio.png" alt='portfolio' height='40'>](https://shady-portfolio.netlify.app/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/shadykh)
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
+---
 
-<br />
-<br />
+[![trophy](https://github-profile-trophy.vercel.app/?username=shadykh)](https://github.com/ryo-ma/github-profile-trophy)
 
-<details>
-  <summary>⚡ GitHub Stats</summary>
+---
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=shadykh&show_icons=true&hide_border=true" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shadykh)](https://github.com/anuraghazra/github-readme-stats)
 
-</details>
+---
 
-[website]: https://github.com/shadykh
-[linkedin]: https://www.linkedin.com/in/shadykhaled
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=shadykh&show_icons=true)  
+
+---
+
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=shadykh)  
+
