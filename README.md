@@ -6,11 +6,11 @@
 
 
 
-- 🔭 I’m currently working on Finding job to increase and apply my skills 
-- 🌱 I’m currently learning OOP 
-- 👯 I’m looking to collaborate on Making personal tracker 
-- 💬 Ask me about Video Games, Online Courses, Write for something about me and Junk Food  
-- 📫 How to reach me: contact  
+- 🔭 I’m currently working on: Finding job to increase and apply my skills 
+- 🌱 I’m currently learning: OOP 
+- 👯 I’m looking to collaborate on: Making personal tracker 
+- 💬 Ask me about: Video Games, Online Courses, Write for something about me and Junk Food  
+- 📫 How to reach me: [contact](#contact)  
 - 😄 Pronouns: Luffy 
 - ⚡ Fun fact: If I could have any superpower, it would be a magical power to make a sweets instantly 🍬. 
 
@@ -22,20 +22,7 @@
 
 ![Skills](./coding.gif)
 
-<img src="https://img.icons8.com/bubbles/50/000000/react.png"/>
-<img src="https://img.icons8.com/color/48/000000/npm.png"/>
-<img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
-<img src="https://img.icons8.com/color/48/000000/heroku.png"/>
-<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
-<img src="https://img.icons8.com/color-glass/48/000000/css.png"/>
-<img src="https://img.icons8.com/color/48/000000/sass.png"/>
-<img src="https://img.icons8.com/color/48/000000/ubuntu--v1.png"/>
-<img src="https://img.icons8.com/ios/50/000000/jquery.png"/>
-<img src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
-<img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
-<img src="https://img.icons8.com/color/48/000000/git.png"/>
-<img src="https://img.icons8.com/color/48/000000/power-bi.png"/>
-<img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
+<img src="https://img.icons8.com/bubbles/50/000000/react.png"/><img src="https://img.icons8.com/color/48/000000/npm.png"/><img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/><img src="https://img.icons8.com/color/48/000000/heroku.png"/><img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/><img src="https://img.icons8.com/color-glass/48/000000/css.png"/><img src="https://img.icons8.com/color/48/000000/sass.png"/><img src="https://img.icons8.com/color/48/000000/ubuntu--v1.png"/><img src="https://img.icons8.com/ios/50/000000/jquery.png"/><img src="https://img.icons8.com/color/48/000000/postgreesql.png"/><img src="https://img.icons8.com/color/48/000000/mongodb.png"/><img src="https://img.icons8.com/color/48/000000/git.png"/><img src="https://img.icons8.com/color/48/000000/power-bi.png"/><img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
 
 ---
 ### contact:
